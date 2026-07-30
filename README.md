@@ -8,7 +8,7 @@ avoidable cost in the frame.
 FasterChests gives chests real block models so they bake into the chunk mesh like any other block,
 and stops the block entity renderer from drawing them a second time.
 
-**The animated lid is not drawn.** This is **INTENTIONAL** and an artifact of the changed rendering
+**The animated lid is not drawn.** This is **INTENTIONAL** and an artifact of the changed rendering.
 
 ## Measured
 
