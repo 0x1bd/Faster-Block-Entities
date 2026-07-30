@@ -12,9 +12,7 @@ and stops the block entity renderer from drawing them a second time.
 
 ## Measured
 
-In a chest-dense storage room: **~200 FPS -> ~2300 FPS**, i.e. roughly 4.5 ms of frame time
-returned per frame. The gain scales with the number of chests in view, so an ordinary overworld
-scene will see far less than this.
+![Before and after](before-after.png)
 
 ## Configuration
 
