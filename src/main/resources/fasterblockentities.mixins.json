@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.kvxd.fasterblockentities.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "AbstractChestBlockMixin",
+    "BlockEntityRenderDispatcherMixin",
+    "ShulkerBoxBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_shulker_box_south",
+  "textures": {
+    "particle": "minecraft:block/gray_shulker_box",
+    "texture": "minecraft:entity/shulker/shulker_gray"
+  }
+}

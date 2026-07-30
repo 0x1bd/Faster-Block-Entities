@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "*"
 license = "GPL-3.0-or-later"
-issueTrackerURL = "https://github.com/0x1bd/FasterChests/issues"
+issueTrackerURL = "https://github.com/0x1bd/FasterBlockEntities/issues"
 
 [[mods]]
 modId = "${id}"

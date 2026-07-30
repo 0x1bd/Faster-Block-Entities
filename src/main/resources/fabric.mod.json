@@ -9,7 +9,7 @@
     "kvxd"
   ],
   "contact": {
-    "sources": "https://github.com/0x1bd/FasterChests"
+    "sources": "https://github.com/0x1bd/FasterBlockEntities"
   },
   "license": "GPL-3.0-or-later",
   "icon": "assets/${id}/icon.png",

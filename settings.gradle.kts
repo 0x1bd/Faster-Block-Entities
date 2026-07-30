@@ -32,4 +32,4 @@ stonecutter {
     create(rootProject)
 }
 
-rootProject.name = "FasterChests"
+rootProject.name = "FasterBlockEntities"
