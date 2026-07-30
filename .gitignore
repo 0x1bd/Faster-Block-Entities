@@ -1,0 +1,9 @@
+.gradle/
+build/
+run/
+versions/*/build/
+versions/*/run/
+versions/*/src/
+.idea/
+*.iml
+.stonecutter/

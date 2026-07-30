@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "${id}",
+  "version": "${version}",
+
+  "name": "${name}",
+  "description": "${description}",
+  "authors": [
+    "kvxd"
+  ],
+  "contact": {
+    "sources": "https://github.com/0x1bd/FasterChests"
+  },
+  "license": "GPL-3.0-or-later",
+  "icon": "assets/${id}/icon.png",
+
+  "environment": "client",
+  "mixins": [
+    "${id}.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": ">=${minecraftVersion}"
+  }
+}

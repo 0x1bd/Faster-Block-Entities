@@ -1,0 +1,25 @@
+modLoader = "javafml"
+loaderVersion = "*"
+license = "GPL-3.0-or-later"
+issueTrackerURL = "https://github.com/0x1bd/FasterChests/issues"
+
+[[mods]]
+modId = "${id}"
+version = "${version}"
+displayName = "${name}"
+authors = "kvxd"
+description = '''
+${description}
+'''
+logoFile = "assets/${id}/icon.png"
+logoBlur = false
+
+[[mixins]]
+config = "${id}.mixins.json"
+
+[[dependencies.${id}]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[${minecraftVersion},)"
+ordering = "NONE"
+side = "CLIENT"
